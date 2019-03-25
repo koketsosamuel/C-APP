@@ -1,4 +1,7 @@
-<widget id="LordJesus.christianApp.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="lordjesus.christianapp.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+  <preference name="android-targetSdkVersion" value="26"/>
+
   <name>Christian App</name>
   <description>
       A SIMPLE INFORMATIVE CHRISTIAN APPLICATION
