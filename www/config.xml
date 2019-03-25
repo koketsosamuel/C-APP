@@ -1,4 +1,4 @@
-<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="LordJesus.christianApp.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Christian App</name>
   <description>
       A SIMPLE INFORMATIVE CHRISTIAN APPLICATION
